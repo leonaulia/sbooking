@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#booking-form {
+  max-width: 400px;
+  margin: auto;
+}
+
+label, select, input, button {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#time-slots {
+  margin-top: 20px;
+}
